@@ -1,0 +1,29 @@
+.choiceBtn {
+  line-height: 30px;
+  width: 150px;
+  background-color: green;
+  color: aliceblue;
+  font-weight: bold;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  box-shadow: 10px 10px 25px black;
+  margin-bottom: 20px;
+}
+
+#gameDiv {
+  font-family: "Nanum Brush Script", cursive;
+  border: 3px solid;
+  border-radius: 25px;
+  padding: 10px;
+  background-color: lightgray;
+  text-align: center;
+}
+
+#playerText {
+  color: blue;
+}
+
+#computerText {
+  color: red;
+}
